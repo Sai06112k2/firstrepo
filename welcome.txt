@@ -1,2 +1,3 @@
 Welcome to file written from Git CLI
+This line is written from branch-1 through CLI
 
